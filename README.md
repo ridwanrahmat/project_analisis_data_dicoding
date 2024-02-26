@@ -26,13 +26,21 @@
 
     Pastikan Anda sudah memiliki Python dan pip diinstal di komputer Anda.
 
-4. Setelah semua dependensi terinstal, Anda dapat menjalankan aplikasi dengan menjalankan perintah berikut:
+4. Setelah semua dependensi terinstal, Anda dapat membuka terminal anaconda prompt pada folder project dan jalankan file dashboard_bike_visual.py lalu jalankan:
 
     ```
-    python app.py
+    streamlit run dashboard_bike_visual.py
     ```
 
-    Ganti `app.py` dengan nama file yang sesuai dengan aplikasi Anda.
 
-5. Terakhir, buka browser Anda dan akses `http://localhost:8501` untuk melihat aplikasi yang sedang berjalan.
+5. Terakhir, buka browser Anda dan akses `http://localhost:` yang terdapat pada terminal prompt anaconda untuk melihat aplikasi yang sedang berjalan.
+
+
+##  Link Github
+
+     ```
+   https://github.com/ridwanrahmat/project_analisis_data_dicoding
+   
+    ```
+
 
