@@ -38,9 +38,7 @@
 
 ##  Link Github
 
-     ```
    https://github.com/ridwanrahmat/project_analisis_data_dicoding
    
-    ```
 
 
