@@ -35,9 +35,6 @@
 
 5. Terakhir, buka browser Anda dan akses `http://localhost:` yang terdapat pada terminal prompt anaconda untuk melihat aplikasi yang sedang berjalan.
 
-##  Link Dashboard Streamlit
-
-   https://bikedashboard.streamlit.app/
    
 ##  Link Github
 
